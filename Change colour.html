@@ -1,0 +1,1 @@
+document.queryselector('h1').style.color = 'red';

@@ -1,0 +1,5 @@
+softwares to be installed 
+
+1.noodjs
+2. vs code 
+
